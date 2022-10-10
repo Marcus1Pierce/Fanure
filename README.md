@@ -25,10 +25,7 @@ Fanure DNS adalah DNS yang saya buat sendiri selama saya memiliki waktu luang. U
 - DNS over QUIC: quic://dns-ads.fanure (Port 853 UDP)
 
 #### Apa saja yang diblok:
-- Blokir situs dewasa (Safe for Work)
-- Blokir situs yang dicurigai sebagai malware/virus
-- Blokir situs yang dicurigai sebagai scam
-- Blokir situs yang dicurigai sebagai phising
+- Blokir situs dari DNS Malware
 - Blokir situs yang dicurigai sebagai iklan
 
 #### Fitur lainnya:
