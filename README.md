@@ -1,7 +1,9 @@
 # Fanure
 Fanure DNS
 
-Fanure DNS adalah DNS yang saya buat sendiri selama saya memiliki waktu luang. Untuk DNS sendiri saya memiliki 2 server yaitu server yang blok host/domain yang kemungkinan beirisi malware dan server yang blok host/domain yang kemungkinan berisi iklan dan malware. Semua server dns saya buat untuk "Family Friendly". Berikut daftar DNS yang saya buat:
+Fanure DNS adalah DNS yang saya buat sendiri selama saya memiliki waktu luang. Untuk DNS sendiri saya memiliki 2 server yaitu server yang blok host/domain yang kemungkinan beirisi malware dan server yang blok host/domain yang kemungkinan berisi iklan dan malware. Semua server dns saya buat untuk "Family Friendly". Saya tidak menyimpan histori kunjungan anda. Jika ada website yang tidak bisa diakses atau masuk daftar blokir bisa langsung komen pada halaman ini atau hubungi langsung lewat Messenger. Saya akan selalu update saat saya memiliki waktu luang. DNS Server ini akan selalu up selama saya masih bisa membayar sewa VPS dan Domain.  
+
+Berikut daftar DNS yang saya buat:
 
 ## DNS Malware
 ### Server:
