@@ -5,21 +5,6 @@ Fanure DNS adalah DNS yang saya buat sendiri selama saya memiliki waktu luang. U
 
 Berikut daftar DNS yang saya buat:
 
-## DNS Malware
-### Server:
-- DNS over HTTPS: https://dns-malware.fanure.com/dns-query
-- DNS over TLS: tls://dns-malware.fanure.com atau dns-malware.fanure.com (Port 853 TCP)
-- DNS over QUIC: quic://dns-malware.fanure (Port 853 UDP)
-
-#### Apa saja yang diblok:
-- Blokir situs dewasa (Safe for Work)
-- Blokir situs yang dicurigai sebagai malware
-- Blokir situs yang dicurigai sebagai scam
-- Blokir situs yang dicurigai sebagai phising
-
-#### Fitur lainnya:
-- Safe search untuk beberapa search engine
-
 ## DNS Adblock
 ### Server: 
 - DNS over HTTPS: https://dns-ads.fanure.com/dns-query
@@ -32,6 +17,21 @@ Berikut daftar DNS yang saya buat:
 
 #### Fitur lainnya:
 - Safe search untuk beberapa search engine
+
+## ~~DNS Malware~~
+### ~~Server:~~
+- ~~DNS over HTTPS: https://dns-malware.fanure.com/dns-query~~
+- ~~DNS over TLS: tls://dns-malware.fanure.com atau dns-malware.fanure.com (Port 853 TCP)~~
+- ~~DNS over QUIC: quic://dns-malware.fanure (Port 853 UDP)~~
+
+#### ~~Apa saja yang diblok:~~
+- ~~Blokir situs dewasa (Safe for Work)~~
+- ~~Blokir situs yang dicurigai sebagai malware~~
+- ~~Blokir situs yang dicurigai sebagai scam~~
+- ~~Blokir situs yang dicurigai sebagai phising~~
+
+#### ~~Fitur lainnya:~~
+- ~~Safe search untuk beberapa search engine~~
 
 ## Donate
 Jika suka dengan apa yang saya buat, anda bisa donasi untuk membantu agar server bisa tetap terus berjalan
