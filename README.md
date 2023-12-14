@@ -18,7 +18,7 @@ Berikut daftar DNS yang saya buat:
 - Blokir situs yang dicurigai sebagai scam
 - Blokir situs yang dicurigai sebagai phising
 
-#### ~~Fitur lainnya:~~
+#### Fitur lainnya:
 - Safe search untuk beberapa search engine
 
 
