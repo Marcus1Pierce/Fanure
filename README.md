@@ -1,3 +1,6 @@
+# Karena biaya server yang sudah tidak bisa saya tanggung, DNS ini saya matikan sampai waktu yang tidak bisa ditentukan
+
+
 # Fanure
 Fanure DNS
 
